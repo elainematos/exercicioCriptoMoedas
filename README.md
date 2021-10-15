@@ -1,0 +1,1 @@
+Exercicio para Requisição de criptomoedas, Ministrado por Bárbara Casac.
